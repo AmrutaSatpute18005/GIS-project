@@ -1,0 +1,15 @@
+Location,Lon,Lat,result_num,osm_id,display_name,category,type
+"1",74.37631169,22.70621072,"0","372351938","Garbada Taluka, Dahod, Gujarat, India",highway,tertiary
+"2",80.16153112,22.7575169,"0","9704364","Ghansaur Tahsil, Seoni, Madhya Pradesh, India",boundary,administrative
+"3",77.82519251,18.33134162,"0","710766585","Gouraram Thanda, Chinna Gouraram, Pitlam mandal, Kamareddy, Telangana, India",highway,unclassified
+"4",77.38017563,13.03142231,"0","778759868","Mantanakurchi, Sondekoppa, Nelamangala taluk, Bengaluru Rural, Karnataka, 562123, India",highway,residential
+"5",77.71393829,10.25310125,"0","450266761","Athoor, Dindigul, Tamil Nadu, India",highway,tertiary
+"6",73.76441348,18.06711974,"0","11422325515","Wadtumbi, Bhor, Pune, Maharashtra, India",place,hamlet
+"7",84.66732703,21.46917215,"0","10102953","Reamal, Debagarh, Odisha, 768109, India",boundary,administrative
+"8",82.38661552,26.84647217,"0","10029163","Harraiya, Basti, Uttar Pradesh, India",boundary,administrative
+"9",72.54061707,26.64777194,"0","7322823722","Chamu, Shekhata Tehsil, Jodhpur(Rural), Rajasthan, India",place,village
+"10",77.10204008,29.92897553,"0","258697955","Indri, Karnal, Haryana, India",highway,unclassified
+"11",76.99078586,26.19943268,"0","8339143414","Gadretha, Sapotra Tehsil, Karauli, Rajasthan, 322244, India",place,isolated_dwelling
+"12",87.11491986,24.64202209,"0","9953427","Poreyahat, Godda, Jharkhand, 814153, India",boundary,administrative
+"13",93.28952907,26.19943268,"0","10052174","Phuloni, Karbi Anglong, Assam, India",boundary,administrative
+"14",95.06959658,28.03130091,"0","10062767","Kebang Circle, Siang, Arunachal Pradesh, 791102, India",boundary,administrative
